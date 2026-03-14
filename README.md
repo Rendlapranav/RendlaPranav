@@ -12,17 +12,8 @@ Mostly interested in how machines learn things — and occasionally why they lea
 - **Building things** — even when they barely work at first  
 
 ---
-
-### currently
-
-```python
-status = {
-    "studying":   "BTech AI-DS @ IIITB",
-    "learning":   ["ML fundamentals", "Data pipelines", "Python"],
-    "exploring":  "how AI actually works under the hood",
-    "open_to":    "collaborations, projects, and good conversations"
-}
-```
+### intro
+I'm in my second year of BTech AI & Data Science at IIIT Bangalore, learning everything from ML fundamentals to data pipelines along the way. Right now I'm digging into how AI actually works under the hood — past the buzzwords and into the real mechanics. Always open to collaborations, interesting projects, and good conversations.
 
 ---
 
