@@ -1,9 +1,8 @@
 ---
 
-### hey, I'm Pranav 👋
+### hey, I'm Pranav 
 
 Second year BTech student in **AI & Data Science** at IIIT Bangalore.  
-I'm somewhere between "this paper is fascinating" and "why won't this code run."
 
 Mostly interested in how machines learn things — and occasionally why they learn the wrong things.
 
